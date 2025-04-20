@@ -6,5 +6,5 @@ speechrecognition
 langchain_community
 langchain_chroma
 zhipuai
-pysqlite3
+pysqlite3>=3.35.0
 # pyaudio
