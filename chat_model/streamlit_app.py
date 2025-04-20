@@ -102,7 +102,7 @@ def main():
     unsafe_allow_html=True
     )
     col1, col2, col3 = st.columns([1, 1, 1])  # 中间列宽占比最大
-    img = Image.open("白.png")
+    img = Image.open("white.png")
     with col2:
         st.image(img, output_format="PNG", width=200)
     st.markdown('### 🧑‍🌾知耘农业大模型')
