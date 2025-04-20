@@ -1,0 +1,9 @@
+streamlit
+langchain_openai
+langchain_core
+gradio_client
+speechrecognition
+langchain_community
+langchain_chroma
+zhipuai
+pyaudio
