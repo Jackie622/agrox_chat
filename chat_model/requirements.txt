@@ -6,4 +6,4 @@ speechrecognition
 langchain_community
 langchain_chroma
 zhipuai
-pyaudio
+# pyaudio
